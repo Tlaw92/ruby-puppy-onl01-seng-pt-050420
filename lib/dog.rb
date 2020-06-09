@@ -21,5 +21,7 @@ class Dog
     @@all.collect do |dog|
       puts dog.name 
     end 
-  end   
+  end  
+  
+  
 end   
